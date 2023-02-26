@@ -7,7 +7,7 @@ import pandas as pd
 
 '''
 This is the Function that does the Magic (Preciction/Classification)
-To use the Function: phishing_domain_detector(Name of Dataset file in csv format) as seen on line 46.
+To use the Function: phishing_domain_detector(Name of Dataset file in csv format) as seen on line 49.
 '''
 def phishing_domain_detector(file=""):   
     # Load the Data
