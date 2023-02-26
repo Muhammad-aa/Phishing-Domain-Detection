@@ -1,2 +1,3 @@
 # Phishing-Domain-Detection
 This is a Python program that uses Machine Learning to Detect Phishing websites. Phishing websites are malicious websites that are created by threat actors with criminal intent. These websites often seem legit, but there are ways to differntiate them. This program is able to detect malicious websites. 
+You should go through the Basics.py file first to learn the basics of how the Algorithm works. After going through the Basics.py file, you can proceed to Phishing Domain Detector.py file. The Training Dataset.csv is the Dataset we are working with.  The Dataset is from UCI (University of California, Irvine) so it is reliable.  
